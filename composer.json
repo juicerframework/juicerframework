@@ -1,0 +1,17 @@
+{
+    "name": "juicerframework/juicerframework",
+    "description": "Juicer Framework",
+    "type": "library",
+    "keywords": [
+        "framework",
+        "juicer"
+    ],
+    "homepage": "http://juicerframework.com/",
+    "license": "BSD-3-Clause",
+    "require": {
+        "php": "^5.5 || ^7.0",
+        "juicerframework/juicer-auth": "dev-master",
+        "juicerframework/juicer-mail": "dev-master",
+        "juicerframework/juicer-stdlib": "dev-master"
+    }
+}
